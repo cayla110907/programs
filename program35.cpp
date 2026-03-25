@@ -19,6 +19,6 @@ int main() {
             }
     }
     hasil[j] = '\0';
-    printf("Hasil kata atau kalimat setelah huruf vokal berhasil dihapus, yaitu '%s'", hasil);
+    printf("Hasil kata atau kalimat setelah huruf vokal berhasil dihapus: %s", hasil);
     return 0;
 }
